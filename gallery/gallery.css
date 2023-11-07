@@ -1,0 +1,81 @@
+body{
+    background-color: rgb(162, 165, 148);
+}
+.Nature {
+     margin: o;
+     padding: 0;
+     box-shadow: border-box;
+     font-family: sans-serif;
+  }
+  .container{
+     width: 100%;
+     text-align: center;
+
+  }
+  input{
+    display: none;
+  }
+  h3{
+    font-weight: normal;
+    font-size: 35px;
+    position: relative;
+    margin: 40px;
+  }
+  .row1{
+    display: flex;
+  }
+  .row1 img{
+    height: 300;
+  }
+  .pic-nature h1{
+    color: #125e1c;
+    font-weight: bolder;
+  }
+  .row2{
+    display: flex;
+  }
+  .row2 img{
+    height: 250;
+  }
+  .pic-wildlife h1{
+    color: #006400; 
+  }
+.row3{
+    display: flex;
+
+}
+.row3 img{
+    height: 230;
+}
+.pic-hotel h1{
+    color: #2196F3;
+    font-weight: 600;
+
+}
+.heading h1 {
+    /* Display the heading text as a flexbox container */
+    display: flex;
+    justify-content: space-between;
+  
+    /* Set the font size and font family */
+    font-size: 2rem;
+    font-family: sans-serif;
+    color: yellow;
+
+    
+  }
+  .heading marquee{
+    color: rgb(13, 14, 13);
+  }
+  .row4 {
+    display: flex;
+}
+
+.row4 img {
+    height: 230px; /* Added 'px' unit */
+}
+
+.pic-tech h1 {
+    color: rgb(87, 31, 192);
+    font-weight: 600;
+}
